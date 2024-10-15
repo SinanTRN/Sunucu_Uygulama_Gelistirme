@@ -1,4 +1,4 @@
-package src.main.java.com.crud.CRUD_Aplication.DAO;
+package com.crud.CRUD_Aplication.DAO;
 
 import com.crud.CRUD_Aplication.entity.Student;
 
