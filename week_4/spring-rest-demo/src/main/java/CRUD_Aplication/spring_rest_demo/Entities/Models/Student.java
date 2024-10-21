@@ -1,4 +1,4 @@
-package CRUD_Aplication.spring_rest_demo.Entities;
+package CRUD_Aplication.spring_rest_demo.Entities.Models;
 
 public class Student {
     private String firstName;

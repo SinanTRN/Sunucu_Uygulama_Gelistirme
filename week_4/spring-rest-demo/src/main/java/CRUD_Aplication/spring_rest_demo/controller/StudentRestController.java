@@ -1,11 +1,8 @@
 package CRUD_Aplication.spring_rest_demo.controller;
 
-import CRUD_Aplication.spring_rest_demo.Entities.ErrorModels.StudentErrorResponse;
 import CRUD_Aplication.spring_rest_demo.Entities.Exceptions.StudentNotFoundException;
-import CRUD_Aplication.spring_rest_demo.Entities.Student;
+import CRUD_Aplication.spring_rest_demo.Entities.Models.Student;
 import jakarta.annotation.PostConstruct;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
